@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "zaloapp.com",
+        "zalo.me"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".zaloapp.com",
+        ".zalo.me"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "shenma-inc.com",
+        "smapi.cn",
+        "sm.cn",
+        "uczzd.cn",
+        "uczzd.com",
+        "uczzd.com.cn",
+        "uczzd.net",
+        "xiaoshuo1-sm.com",
+        "xiaoshuo2-sm.com",
+        "xiaoshuo3-sm.com",
+        "xiaoshuo4-sm.com",
+        "xiaoshuo5-sm.com",
+        "yisou.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".shenma-inc.com",
+        ".smapi.cn",
+        ".sm.cn",
+        ".uczzd.cn",
+        ".uczzd.com",
+        ".uczzd.com.cn",
+        ".uczzd.net",
+        ".xiaoshuo1-sm.com",
+        ".xiaoshuo2-sm.com",
+        ".xiaoshuo3-sm.com",
+        ".xiaoshuo4-sm.com",
+        ".xiaoshuo5-sm.com",
+        ".yisou.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "solarcity.com",
+        "tesla-cdn.thron.cn",
+        "tesla-cdn.thron.com",
+        "tesla.com",
+        "tesla.com.cn",
+        "teslaenergy.services",
+        "teslamotors.cn",
+        "teslamotors.com",
+        "teslamotors.com.cn",
+        "tesla.services",
+        "teslazta.net",
+        "ts.la"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".solarcity.com",
+        ".tesla-cdn.thron.cn",
+        ".tesla-cdn.thron.com",
+        ".tesla.com",
+        ".tesla.com.cn",
+        ".teslaenergy.services",
+        ".teslamotors.cn",
+        ".teslamotors.com",
+        ".teslamotors.com.cn",
+        ".tesla.services",
+        ".teslazta.net",
+        ".ts.la"
+      ]
+    }
+  ]
+}

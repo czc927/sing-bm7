@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cf-ipfs.com",
+        "cloudflareaccess.com",
+        "cloudflareapps.com",
+        "cloudflarebolt.com",
+        "cloudflareclient.com",
+        "cloudflare.com",
+        "cloudflare-dns.com",
+        "cloudflareinsights.com",
+        "cloudflare-ipfs.com",
+        "cloudflare.net",
+        "cloudflareok.com",
+        "cloudflarepreview.com",
+        "cloudflare-quic.com",
+        "cloudflareresolve.com",
+        "cloudflaressl.com",
+        "cloudflarestatus.com",
+        "cloudflarestorage.com",
+        "cloudflarestream.com",
+        "cloudflaretest.com",
+        "cloudflare.tv",
+        "cloudflarewarp.com",
+        "every1dns.net",
+        "one.one.one",
+        "pacloudflare.com",
+        "pages.dev",
+        "trycloudflare.com",
+        "videodelivery.net",
+        "warp.plus",
+        "workers.dev"
+      ]
+    }
+  ]
+}

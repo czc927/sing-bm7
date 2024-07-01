@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "bbf.org.cn",
+        "bjsbnet.com",
+        "chndoi.cn",
+        "chndoi.com",
+        "chndoi.com.cn",
+        "chndoi.net",
+        "chndoi.org",
+        "cnkidoi.cn",
+        "cnkidoi.com",
+        "cnkidoi.net",
+        "cnkidoi.org",
+        "cnki.net",
+        "wuxizazhi.cn",
+        "wuxizazhi.com",
+        "wuxizazhi.com.cn",
+        "wuxizazhi.net",
+        "wuxizazhi.net.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".bbf.org.cn",
+        ".bjsbnet.com",
+        ".chndoi.cn",
+        ".chndoi.com",
+        ".chndoi.com.cn",
+        ".chndoi.net",
+        ".chndoi.org",
+        ".cnkidoi.cn",
+        ".cnkidoi.com",
+        ".cnkidoi.net",
+        ".cnkidoi.org",
+        ".cnki.net",
+        ".wuxizazhi.cn",
+        ".wuxizazhi.com",
+        ".wuxizazhi.com.cn",
+        ".wuxizazhi.net",
+        ".wuxizazhi.net.cn"
+      ]
+    }
+  ]
+}

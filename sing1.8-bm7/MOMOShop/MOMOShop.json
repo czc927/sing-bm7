@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "momo5188.com",
+        "momo.dm",
+        "momomall.com.tw",
+        "momoshop.com.tw"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".momo5188.com",
+        ".momo.dm",
+        ".momomall.com.tw",
+        ".momoshop.com.tw"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "buypass.com",
+        "buypass.no",
+        "buypass.se",
+        "buypass-ssl.com",
+        "minid.no"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".buypass.com",
+        ".buypass.no",
+        ".buypass.se",
+        ".buypass-ssl.com",
+        ".minid.no"
+      ]
+    }
+  ]
+}

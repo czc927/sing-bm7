@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "addthiscdn.com",
+        "addthis.com",
+        "addthisedge.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".addthiscdn.com",
+        ".addthis.com",
+        ".addthisedge.com"
+      ]
+    }
+  ]
+}

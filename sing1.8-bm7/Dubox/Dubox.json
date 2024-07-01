@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "duboxcdn.com",
+        "dubox.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".duboxcdn.com",
+        ".dubox.com"
+      ]
+    }
+  ]
+}

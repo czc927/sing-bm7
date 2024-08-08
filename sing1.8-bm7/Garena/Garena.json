@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "avatargarenanow-a.akamaihd.net",
+        "cdngarenanow-a.akamaihd.net",
+        "dlmobilegarena-a.akamaihd.net",
+        "garena.co.id",
+        "garena.com",
+        "garena.co.th",
+        "garena.live",
+        "garena.my",
+        "garenanow.com",
+        "garena.ph",
+        "garena.sg",
+        "garena.tv",
+        "garena.tw",
+        "garena.vn",
+        "seagroup.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".avatargarenanow-a.akamaihd.net",
+        ".cdngarenanow-a.akamaihd.net",
+        ".dlmobilegarena-a.akamaihd.net",
+        ".garena.co.id",
+        ".garena.com",
+        ".garena.co.th",
+        ".garena.live",
+        ".garena.my",
+        ".garenanow.com",
+        ".garena.ph",
+        ".garena.sg",
+        ".garena.tv",
+        ".garena.tw",
+        ".garena.vn",
+        ".seagroup.com"
+      ]
+    }
+  ]
+}

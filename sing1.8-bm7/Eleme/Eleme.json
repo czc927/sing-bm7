@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "ele.me",
+        "elemecdn.cn",
+        "elemecdn.com",
+        "eleme.cn",
+        "eleme.com.cn",
+        "eleme.io",
+        "elenet.me",
+        "ele.to",
+        "fengniaopaotui.cn",
+        "fengniaozhongbao.cn",
+        "xingxuanwaimai.com",
+        "xyzele.com",
+        "youcaishop.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".ele.me",
+        ".elemecdn.cn",
+        ".elemecdn.com",
+        ".eleme.cn",
+        ".eleme.com.cn",
+        ".eleme.io",
+        ".elenet.me",
+        ".ele.to",
+        ".fengniaopaotui.cn",
+        ".fengniaozhongbao.cn",
+        ".xingxuanwaimai.com",
+        ".xyzele.com",
+        ".youcaishop.cn"
+      ]
+    }
+  ]
+}

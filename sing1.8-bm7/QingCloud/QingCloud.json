@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "anybox.com",
+        "frontwize.com",
+        "kubesphere.com.cn",
+        "qingcache.com",
+        "qingcloud.cn",
+        "qingcloud.com",
+        "qingcloud.com.cn",
+        "qingstorage.com",
+        "qingstor.com",
+        "quanxiangyun.com",
+        "routewize.com",
+        "yunify.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".anybox.com",
+        ".frontwize.com",
+        ".kubesphere.com.cn",
+        ".qingcache.com",
+        ".qingcloud.cn",
+        ".qingcloud.com",
+        ".qingcloud.com.cn",
+        ".qingstorage.com",
+        ".qingstor.com",
+        ".quanxiangyun.com",
+        ".routewize.com",
+        ".yunify.com"
+      ]
+    }
+  ]
+}

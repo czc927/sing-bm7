@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "zhuancorp.com",
+        "zhuanspirit.com",
+        "zhuan-zhuan.cn",
+        "zhuanzhuan.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".zhuancorp.com",
+        ".zhuanspirit.com",
+        ".zhuan-zhuan.cn",
+        ".zhuanzhuan.com"
+      ]
+    }
+  ]
+}

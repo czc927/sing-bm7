@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "imkan.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".imkan.tv"
+      ]
+    }
+  ]
+}

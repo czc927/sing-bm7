@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "feedsp.com",
+        "juchang.cn",
+        "juchang.com.cn",
+        "ku6cdn.com",
+        "ku6.cn",
+        "ku6.com",
+        "ku6.com.cn",
+        "ku6img.com",
+        "ku6.net",
+        "ku6vms.com",
+        "weiguan.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".feedsp.com",
+        ".juchang.cn",
+        ".juchang.com.cn",
+        ".ku6cdn.com",
+        ".ku6.cn",
+        ".ku6.com",
+        ".ku6.com.cn",
+        ".ku6img.com",
+        ".ku6.net",
+        ".ku6vms.com",
+        ".weiguan.com"
+      ]
+    }
+  ]
+}

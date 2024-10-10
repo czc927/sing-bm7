@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "razer.com",
+        "razerzone.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".razer.com",
+        ".razerzone.com"
+      ]
+    }
+  ]
+}

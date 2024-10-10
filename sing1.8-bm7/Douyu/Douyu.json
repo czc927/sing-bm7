@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "bytefcdnrd.com",
+        "douyuba.cn",
+        "douyucdn2.cn",
+        "douyucdn.cn",
+        "douyu.com",
+        "douyupcdn.cn",
+        "douyuscdn.com",
+        "douyu.tv",
+        "douyutv.com",
+        "doyonoc.com",
+        "edgesrv.com",
+        "guguyuyin.com",
+        "oywtv.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".bytefcdnrd.com",
+        ".douyuba.cn",
+        ".douyucdn2.cn",
+        ".douyucdn.cn",
+        ".douyu.com",
+        ".douyupcdn.cn",
+        ".douyuscdn.com",
+        ".douyu.tv",
+        ".douyutv.com",
+        ".doyonoc.com",
+        ".edgesrv.com",
+        ".guguyuyin.com",
+        ".oywtv.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "teraboxcdn.com",
+        "terabox.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".teraboxcdn.com",
+        ".terabox.com"
+      ]
+    }
+  ]
+}

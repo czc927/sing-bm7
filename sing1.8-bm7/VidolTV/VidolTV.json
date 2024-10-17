@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "vidol.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".vidol.tv"
+      ]
+    }
+  ]
+}

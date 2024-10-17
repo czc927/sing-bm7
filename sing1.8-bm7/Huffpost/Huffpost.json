@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "huffingtonpost.ca",
+        "huffingtonpost.com",
+        "huffingtonpost.com.au",
+        "huffingtonpost.com.mx",
+        "huffingtonpost.co.uk",
+        "huffingtonpost.co.za",
+        "huffingtonpost.de",
+        "huffingtonpost.es",
+        "huffingtonpost.fr",
+        "huffingtonpost.gr",
+        "huffingtonpost.in",
+        "huffingtonpost.it",
+        "huffingtonpost.jp",
+        "huffingtonpost.kr",
+        "huffpostarabi.com",
+        "huffpostbrasil.com",
+        "huffpost.com",
+        "huffpostmaghreb.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".huffingtonpost.ca",
+        ".huffingtonpost.com",
+        ".huffingtonpost.com.au",
+        ".huffingtonpost.com.mx",
+        ".huffingtonpost.co.uk",
+        ".huffingtonpost.co.za",
+        ".huffingtonpost.de",
+        ".huffingtonpost.es",
+        ".huffingtonpost.fr",
+        ".huffingtonpost.gr",
+        ".huffingtonpost.in",
+        ".huffingtonpost.it",
+        ".huffingtonpost.jp",
+        ".huffingtonpost.kr",
+        ".huffpostarabi.com",
+        ".huffpostbrasil.com",
+        ".huffpost.com",
+        ".huffpostmaghreb.com"
+      ]
+    }
+  ]
+}

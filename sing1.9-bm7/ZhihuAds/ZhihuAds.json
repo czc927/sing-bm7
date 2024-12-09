@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "appcloud2.in.zhihu.com",
+        "mqtt.zhihu.com",
+        "sugar.zhihu.com"
+      ]
+    },
+    {
+      "domain_regex": [
+        "^zhuanlan\\.zhihu\\.com\\/api\\/articles\\/\\d+\\/recommendation"
+      ]
+    }
+  ]
+}

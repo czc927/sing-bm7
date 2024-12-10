@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "line-apps.com",
+        "line-cdn.net",
+        "linecorp.com",
+        "lin.ee",
+        "line.me",
+        "line-scdn.net",
+        "naver.jp",
+        "nhncorp.jp"
+      ]
+    }
+  ]
+}

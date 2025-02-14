@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "cache.video.iqiyi.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "inter.iqiyi.com",
+        "intl.iqiyi.com",
+        "intl-rcd.iqiyi.com",
+        "intl-subscription.iqiyi.com",
+        "iq.com"
+      ]
+    }
+  ]
+}

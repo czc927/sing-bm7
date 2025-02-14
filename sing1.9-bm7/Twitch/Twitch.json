@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ext-twitch.tv",
+        "jtvnw.net",
+        "live-video.net",
+        "ttvnw.net",
+        "twitchcdn.net",
+        "twitch-ext.rootonline.de",
+        "twitchsvc.net",
+        "twitch.tv"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "ttvnw"
+      ]
+    }
+  ]
+}

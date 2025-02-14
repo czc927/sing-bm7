@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "api.imem.app",
+        "api.swiftgram.app"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cdn-telegram.org",
+        "comments.app",
+        "contest.com",
+        "graph.org",
+        "legra.ph",
+        "mbrx.app",
+        "quiz.directory",
+        "stel.com",
+        "tdesktop.com",
+        "telega.one",
+        "telegram-cdn.org",
+        "telegram.dog",
+        "telegramdownload.com",
+        "telegram.me",
+        "telegram.org",
+        "telegram.space",
+        "telegra.ph",
+        "telesco.pe",
+        "tg.dev",
+        "t.me",
+        "tx.me",
+        "usercontent.dev"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "nicegram"
+      ]
+    }
+  ]
+}

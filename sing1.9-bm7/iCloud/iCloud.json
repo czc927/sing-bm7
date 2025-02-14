@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "apple-cloudkit.com",
+        "apple-icloud.cn",
+        "appleicloud.cn",
+        "apple-livephotoskit.com",
+        "applemx-icloud.com",
+        "apzones.com",
+        "cdn-apple.com",
+        "gc.apple.com",
+        "icloudads.net",
+        "icloud-apple.cn",
+        "icloudapple.cn",
+        "icloud.apple.com",
+        "icloudbox.net",
+        "icloudbrowser.net",
+        "icloud.ch",
+        "icloud.com",
+        "icloud.com.cn",
+        "icloud-content.com",
+        "icloud.de",
+        "icloude.com",
+        "icloud.ee",
+        "icloud.fi",
+        "icloud.fr",
+        "icloudhome.com",
+        "icloud.hu",
+        "icloud.ie",
+        "icloud.is",
+        "icloud-isupport.com",
+        "icloud.jp",
+        "icloud.lv",
+        "icloudmail.net",
+        "icloudmusic.net",
+        "icloud.net.cn",
+        "icloudnet.net",
+        "icloudo.com",
+        "icloudo.de",
+        "icloud.om",
+        "icloudo.net",
+        "icloud.org",
+        "icloudos.de",
+        "icloudos.net",
+        "icloudpay.net",
+        "icloud.pt",
+        "icloud.ro",
+        "icloud-sandbox.com",
+        "icloud.se",
+        "icloudsecure.net",
+        "icloudsetup.com",
+        "icloud.si",
+        "icloud.sk",
+        "icloud.vn",
+        "ios-icloud.com",
+        "iwork.apple.com",
+        "me.com",
+        "myicloud.net",
+        "mylcloud.net",
+        "www-cdn.icloud.com.akadns.net",
+        "wwwicloud.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "icloud.com.akadns.net"
+      ]
+    }
+  ]
+}
